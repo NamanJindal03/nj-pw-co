@@ -1,0 +1,73 @@
+/* span{
+    height: 100px;
+    width: 200px;
+} */
+/* :root{
+    font-size: 30px;
+} */
+
+*{
+    box-sizing: border-box;
+}
+
+/* css reset */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#id1{
+    height: 100px;
+    width: 200px;
+    border: 1px solid red;
+    /* display: inline-block; */
+}
+
+#test{
+    background-color: red;
+}
+
+#ecommerce-section{
+    font-size: 20px;
+    padding: 24px;
+}
+/* 
+#product{
+    font-size: 2rem;
+} */
+
+#product-title{
+    font-size: 1.5em;
+}
+#product-title2{
+    font-size: 40px;
+    padding: 1em;
+    border: 0.5em solid red;
+}
+
+/* body{ */
+    /* height: 100vh; */
+    /* width: 100vw; */
+    /* height: 900px;
+    width: 1200px; */
+    /* background-color: red; */
+/* } */
+/* #new-div{ */
+    /* height: 100vh; 
+    width: 100vw; */
+    /* background-color: purple; */
+/* } */
+
+/* #new-div{
+    margin: 10px;
+    padding: 5px;
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 2px solid red;
+    box-sizing: border-box;
+}

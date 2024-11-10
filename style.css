@@ -1,0 +1,18 @@
+/* :root{
+    -primary: green;
+}
+html{
+    -primary: blue;
+}
+.cl{
+    background-color: var(-primary);
+} */
+
+.box{
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+    background-color: red;
+}
